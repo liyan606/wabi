@@ -1,0 +1,11 @@
+positions: 2991,86484,86668
+
+POS 2991
+ack/[0.06] dark:bg-white/[0.06]":""," text-xs leading-[10px] font-medium"),k="transition-all group-focus-visible:opacity-100 group-hover:opacity-100 ".concat("waitlist"===y?"opacity-75":"opacity-60");return f[10]!==k?(s=(0,o.jsx)("span",{className:k,children:"加入候补名单"}),f[10]=k,f[11]=s):s=f[11],f[12]!==r||f[13]!==j||f[14]!==s?(d=(0,o.jsx)("a",{href:"https://uwnf572od4k.feishu.cn/wiki/BJ0Uwmp8fiyNnPkLwwzcNG1Fnrh?from=from_copylink",onMouseEnter:r,className:j,onClick:m,children:s}),f[12]=r,f[13]=j,f[14]=s,f[15]=d):d=f
+
+POS 86484
+:"opacity-25",cx:"12",cy:"12",r:"10",stroke:"currentColor",strokeWidth:"4"}),(0,o.jsx)("path",{className:"opacity-75",fill:"currentColor",d:"M4 12a8 8 0 018-8V0C5.373 0 0 5.373 0 12h4zm2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"})]}):"加入候补",y[12]=w,y[13]=c):c=y[13],y[14]!==c?(d=(0,o.jsx)("span",{className:"dark:!text-white",children:c}),y[14]=c,y[15]=d):d=y[15],y[16]!==E||y[17]!==d?(m=(0,o.jsx)("button",{title:"提交邮箱加入候补名单",type:"submit",disabled:E,className:"glassmorphic-button",children:d}
+
+POS 86668
+m2 5.291A7.962 7.962 0 014 12H0c0 3.042 1.135 5.824 3 7.938l3-2.647z"})]}):"加入候补",y[12]=w,y[13]=c):c=y[13],y[14]!==c?(d=(0,o.jsx)("span",{className:"dark:!text-white",children:c}),y[14]=c,y[15]=d):d=y[15],y[16]!==E||y[17]!==d?(m=(0,o.jsx)("button",{title:"提交邮箱加入候补名单",type:"submit",disabled:E,className:"glassmorphic-button",children:d}),y[16]=E,y[17]=d,y[18]=m):m=y[18],y[19]===Symbol.for("react.memo_cache_sentinel")?(p=(0,o.jsx)("div",{className:"glassmorphic-button-shadow"}),y[19]=p):p=y[19],y[20]!==m?(u=(0,o.jsxs)
+

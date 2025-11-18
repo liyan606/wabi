@@ -1,0 +1,1 @@
+<svg width='22' height='22' fill='none' xmlns='http://www.w3.org/2000/svg'><circle cx='11' cy='11' r='11' fill='#D2ECFE'/><path d='M7 11h7.429' stroke='#03216C' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/><path d='m11 7 4 4-4 4' stroke='#03216C' stroke-width='1.5' stroke-linecap='round'/></svg>
